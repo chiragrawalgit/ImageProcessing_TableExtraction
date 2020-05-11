@@ -1,4 +1,4 @@
-# DocumentExtraction_Table
+# About
 This repo contains datasets (PDFs) and code to extract tabular information from it.
 
 # Team members
